@@ -1,4 +1,4 @@
-### Custom 7-Segment Display with LEDs:
+## Custom 7-Segment Display with LEDs:
 
 In this project, we will create our own 7-segment display using individual LED bulbs. This involves arranging the LEDs in the shape of a 7-segment display and controlling them with an Arduino.
 
@@ -18,4 +18,6 @@ In this project, we will create our own 7-segment display using individual LED b
 - Segment 'f' -> Pin 5
 - Segment 'g' -> Pin 6
 
-This setup allows you to create a custom 7-segment display using individual LEDs, which can be controlled using the provided Arduino code and `LED_Display` library.
+### Using the `LED_Display` Library:
+
+To use the `LED_Display` library, download the .zip file and import it into your Arduino IDE. This setup allows you to create a custom 7-segment display using individual LEDs, which can be controlled using the provided Arduino code and `LED_Display` library.## Custom 7-Segment Display with LEDs:
